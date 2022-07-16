@@ -1,6 +1,7 @@
 import string
 
 lista_alfabeto = string.ascii_uppercase
+print(lista_alfabeto)
 frase_cript = 'HVWRX HPSROJDGR FRP R FXUVR GH SBWKRQ'
 frase_descript = str()
 for letra in frase_cript:
