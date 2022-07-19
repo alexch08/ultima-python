@@ -22,4 +22,4 @@ elif forma_de_pagamento == 2:
     preco_final = valor_da_etiqueta - (valor_da_etiqueta*0.10)
 else: 
     preco_final= valor_da_etiqueta - (valor_da_etiqueta * 0.15)
-print(f'O preço final é de R$: {preco_final:.2f}')
+print(f'Preço final é de R$: {preco_final:.2f}')
